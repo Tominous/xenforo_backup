@@ -5,7 +5,7 @@
 
 #### CONFIG - YOU MUST EDIT THIS ####
 
-# set database connection info
+# set database connection information
 db_username="username"
 db_password="password"
 db_name="database"
